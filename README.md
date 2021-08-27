@@ -4,6 +4,7 @@ This assignment is designed to introduce you to some features in [ECMAScript 201
 
 ## Overview: Arrow Functions
 
+
 - [MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions){:target="_blank"}
 - [caniuse.com](https://caniuse.com/#search=arrow%20functions){:target="_blank"}
 

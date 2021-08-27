@@ -2,6 +2,7 @@
     "globals": {
       "Mustache": true,
       "$": true
+        
     },
     "extends": "eslint:recommended",
     "parserOptions": {
